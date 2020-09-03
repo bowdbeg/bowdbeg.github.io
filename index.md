@@ -6,31 +6,33 @@ title: Kohei MAKINO
 Thank you for visiting and interests in my works. I introduce myself, works, projects or something I can contribute.
 Please feel free to contact me.
 
-E-mail: sd19446\[at\]toyota-ti.ac.jp
+## Contact
 
-### About Me
+e-mail: sd19446\[at\]toyota-ti.ac.jp
 
-#### Belongings
+## About Me
+
+### Belongings
 
 - Master student in Computer Science at [Toyota Technological Institute](https://www.toyota-ti.ac.jp/) in Japan
   - Lab : [Computational Intelligence Laboratory](https://tticoin.wordpress.com/)
 - Research Assistant at [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) in [National Institute of Advanced Industrial Science and Technology](https://www.aist.go.jp/)
 
-#### My Interest
+### My Interest
 
 - Computer Science
 - Natural Language Processing \(NLP\)
 - Relation Extraction \(RE\)
 - Information Extraction \(IE\)
 
-#### Hobby
+### Hobby
 
 - Motor bike
   - V-strom 250 \(Suzuki\) ![bike.jpg](img/bike.jpg)
 - Liquor
 - Bass guiter
 
-### Publication List
+## Publication List
 
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕，再帰ニューラルネットを用いた車両運動性の代理モデリング，日本機械学会論文集, 2020. (accepted)
   - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI, Surrogate modeling of vehicle dynamics using Recurrent Neural Networks, Transactions of the Japan Society of Mechanical Engineers, 2020. (in Japanese) (accepted)
@@ -49,3 +51,4 @@ E-mail: sd19446\[at\]toyota-ti.ac.jp
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕，深層学習を用いた車両運動性能の代理モデルの開発，第29回設計工学・システム部門講演会，9月26日, 2019.
 
 <!-- ### Works and Activities -->
+
