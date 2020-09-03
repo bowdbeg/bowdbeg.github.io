@@ -27,7 +27,7 @@ e-mail: sd19446\[at\]toyota-ti.ac.jp
 
 ### Hobby
 
-- Motor bike
+- Motorcycle
   - V-strom 250 \(Suzuki\) ![bike.jpg](img/bike.jpg)
 - Liquor
 - Bass guiter
