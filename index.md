@@ -28,7 +28,7 @@ E-mail: sd19446\[at\]toyota-ti.ac.jp
 - Motor bike
   - V-strom 250 \(Suzuki\) ![bike.jpg](img/bike.jpg)
 - Liquor
-- Base guiter
+- Bass guiter
 
 ### Publication List
 
