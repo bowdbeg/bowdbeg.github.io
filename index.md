@@ -1,7 +1,7 @@
 ---
 title: Kohei MAKINO
 ---
-# Welcome to Page of my works!!
+# Welcome to page of my works!!
 <!-- test -->
 Thank you for visiting and interest in my works. I introduce myself, works, projects or something I can contribute.
 Please feel free to contact me.
