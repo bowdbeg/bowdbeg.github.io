@@ -37,7 +37,7 @@ Please feel free to contact me.
 ### Hobby
 
 - Motorcycle
-  - V-strom 250 \(Suzuki\) ![bike.jpg](images/bike.jpg)
+  - V-strom 250 \(Suzuki\) ![v-strom250](images/bike.jpg)
 - Liquor
 - Bass guitar
 
