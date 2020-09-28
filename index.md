@@ -2,15 +2,23 @@
 title: Kohei MAKINO
 ---
 # Welcome to page of my works!!
-<!-- test -->
 Thank you for visiting and interest in my works. I introduce myself, works, projects or something I can contribute.
 Please feel free to contact me.
 
 ## Contact
 
-e-mail: sd19446\[at\]toyota-ti.ac.jp
+- e-mail: sd19446\[at\]toyota-ti.ac.jp
+- [GitHub](https://github.com/bowdbeg)
+- [LinkedIN](https://www.linkedin.com/in/kohei-makino/)
+- [Google Scholar](https://scholar.google.com/citations?user=SVObobAAAAAJ)
 
 ## About Me
+
+- Name: Kohei MAKINO \(牧野 晃平\)
+- Gender: Male \(男\)
+- Birth: Nov. 1996
+- Address: Nagoya, Aich, Japan \(愛知県名古屋市\)
+- Birthplace: Hokkaido, Japan \(北海道\)
 
 ### Belongings
 
@@ -31,7 +39,7 @@ e-mail: sd19446\[at\]toyota-ti.ac.jp
 - Motorcycle
   - V-strom 250 \(Suzuki\) ![bike.jpg](img/bike.jpg)
 - Liquor
-- Bass guiter
+- Bass guitar
 
 ## Publication List
 
