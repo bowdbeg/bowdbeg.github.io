@@ -16,25 +16,27 @@
     {% seo %}
 </head>
 <style type="text/css">
-    .topcorner{
-        float: right;
+    header .right {
+        left: 100%;
+        position: relative;
+        transform: translateX(-100%);
     }
 </style>
 
 <body>
     <header>
         <div class="inner">
+            {% if site.logo %}
+            <div class="right">
+                <img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="200" />
+            </div>
+            {% endif %}
             <a href="{{ '/' | absolute_url }}">
                 <h1>{{ site.title | default: site.github.repository_name }}</h1>
             </a>
             <!-- <h2>{{ site.description | default: site.github.project_tagline }}</h2> -->
             {% if site.github.is_project_page %}
             <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-            {% endif %}
-            {% if site.logo %}
-            <div class="topcorner">
-                <img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="200" />
-            </div>
             {% endif %}
             <!-- {% if site.github.is_user_page %}
             <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
