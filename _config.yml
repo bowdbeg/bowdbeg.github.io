@@ -2,7 +2,6 @@ theme: jekyll-theme-architect
 title: Kohei MAKINO
 # description: "<p>Hi. I'm a master student of Toyota Technological Institute.</p>"
 logo: img/profile_image.jpg
-    url: https://bowdbeg.github.io/
 google_analytics: UA-177329932-1
 plugins:
     - jekyll-sitemap
