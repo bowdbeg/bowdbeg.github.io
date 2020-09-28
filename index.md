@@ -9,7 +9,7 @@ Please feel free to contact me.
 
 - e-mail: sd19446\[at\]toyota-ti.ac.jp
 - [GitHub](https://github.com/bowdbeg)
-- [LinkedIN](https://www.linkedin.com/in/kohei-makino/)
+- [LinkedIn](https://www.linkedin.com/in/kohei-makino/)
 - [Google Scholar](https://scholar.google.com/citations?user=SVObobAAAAAJ)
 
 ## About Me
