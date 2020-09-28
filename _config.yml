@@ -4,4 +4,6 @@ description: "<p>牧野 晃平</p><p>Hi. I'm a master student of Toyota Technolo
 logo: img/profile_image.jpg
 google_analytics: UA-177329932-1
 plugins:
- - jekyll-sitemap
+    - jekyll-sitemap
+linkedin: https://www.linkedin.com/in/kohei-makino/
+scholar: https://scholar.google.com/citations?user=SVObobAAAAAJ
