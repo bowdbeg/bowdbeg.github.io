@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 title: Kohei MAKINO
-# description: "<p>Hi. I'm a master student of Toyota Technological Institute.</p>"
+description: "This page introduces Kohei Makino in Computational Intelligence Laboratory in Toyota Technological Institute in Japan."
 logo: images/profile_image.jpg
 google_analytics: UA-177329932-1
 plugins:
