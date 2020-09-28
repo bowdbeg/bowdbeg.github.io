@@ -22,7 +22,7 @@ Please feel free to contact me.
 
 ### Belongings
 
-- Master student in Computer Science at [Toyota Technological Institute in Japan](https://www.toyota-ti.ac.jp/) \(豊田工業大学\)
+- Master student majoring in computer science at [Toyota Technological Institute in Japan (TTI-J)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\)
   - Lab : [Computational Intelligence Laboratory](https://tticoin.wordpress.com/) \(知能数理研究室\)
 - Research Assistant at [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\)
 <!-- - [National Institute of Advanced Industrial Science and Technology](https://www.aist.go.jp/) -->
