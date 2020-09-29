@@ -1,8 +1,8 @@
 ---
 title: Kohei MAKINO
 ---
-# Welcome to page of my works!!
-Thank you for visiting and interest in my works. I introduce myself, works, projects or something I can contribute.
+# Welcome to page of my work!!
+Thank you for visiting and interest in my work. I introduce myself, work, projects or something I can contribute.
 Please feel free to contact me.
 
 ## Contact
@@ -20,21 +20,21 @@ Please feel free to contact me.
 - Address: Nagoya, Aich, Japan \(愛知県名古屋市\)
 - Birthplace: Hokkaido, Japan \(北海道\)
 
-### Belongings
+### Affiliation
 
 - Master student majoring in computer science at [Toyota Technological Institute in Japan (TTI-J)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\)
   - Lab : [Computational Intelligence Laboratory](https://tticoin.wordpress.com/) \(知能数理研究室\)
 - Research Assistant at [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\)
 <!-- - [National Institute of Advanced Industrial Science and Technology](https://www.aist.go.jp/) -->
 
-### My Interest
+### My Interests
 
 - Computer Science \(CS\)
 - Natural Language Processing \(NLP\)
 - Relation Extraction \(RE\)
 - Information Extraction \(IE\)
 
-### Hobby
+### Hobbies
 
 - Motorcycle
   - V-strom 250 \(Suzuki\) ![v-strom250](images/bike.jpg)
