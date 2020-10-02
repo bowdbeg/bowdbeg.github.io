@@ -50,7 +50,7 @@ Please feel free to contact me.
 
 - 國吉 房貴，**牧野 晃平**，小澤 順，三輪 誠，論文中に記載される合成プロセスの抽出手法の提案と全固体電池分野での評価，第34回人工知能学会全国大会，2020 [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Rin460/_article/-char/ja/)
 
-- **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠，無機材料文献からの合成プロセス抽出のための関係抽出，言語処理学会第26回年次大会，2020.
+- **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠，無機材料文献からの合成プロセス抽出のための関係抽出，言語処理学会第26回年次大会，2020. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/G4-2.pdf)
 
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa, Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature, In Proceedings of The 12th Language Resources and Evaluation Conference, 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
