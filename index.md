@@ -54,7 +54,7 @@ Please feel free to contact me.
 
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa, Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature, In Proceedings of The 12th Language Resources and Evaluation Conference, 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
-- **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕，深層学習を用いた車両運動性能の代理モデルの開発，第29回設計工学・システム部門講演会，9月26日, 2019.
+- **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕，深層学習を用いた車両運動性能の代理モデルの開発，第29回設計工学・システム部門講演会，9月26日, 2019. [\[paper\]](https://www.jstage.jst.go.jp/article/jsmedsd/2019.29/0/2019.29_2209/_article/-char/ja/)
 
 <!-- ### Works and Activities -->
 
