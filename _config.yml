@@ -2,6 +2,7 @@ theme: jekyll-theme-architect
 title: Kohei MAKINO
 description: "This page introduces Kohei Makino in Computational Intelligence Laboratory at Toyota Technological Institute in Japan."
 logo: images/profile_image.jpg
+# analytics does not work?
 google_analytics: UA-177329932-1
 plugins:
     - jekyll-sitemap
