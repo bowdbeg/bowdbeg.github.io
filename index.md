@@ -22,9 +22,9 @@ Please feel free to contact me.
 
 ### Affiliation
 
-- Master student majoring in computer science at [Toyota Technological Institute in Japan (TTI-J)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\)
+- Ph.D. student majoring in computer science at [Toyota Technological Institute in Japan (TTI-J)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\) \(2021/4-\)
   - Lab : [Computational Intelligence Laboratory](https://tticoin.wordpress.com/) \(知能数理研究室\)
-- Research Assistant at [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\)
+- Research Assistant at [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\) \(2019/9-2020/3\)
 <!-- - [National Institute of Advanced Industrial Science and Technology](https://www.aist.go.jp/) -->
 
 ### My Interests
