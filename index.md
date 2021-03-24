@@ -49,7 +49,7 @@ Please feel free to contact me.
 
 ### Journal papers
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕，再帰ニューラルネットを用いた車両運動性の代理モデリング，日本機械学会論文集, 2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_20-00177/_article/-char/ja)
- - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI, Surrogate modeling of vehicle dynamics using Recurrent Neural Networks, Transactions of the Japan Society of Mechanical Engineers, 2020. (in Japanese) (accepted) [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_20-00177/_article/)
+  - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI, Surrogate modeling of vehicle dynamics using Recurrent Neural Networks, Transactions of the Japan Society of Mechanical Engineers, 2020. (in Japanese) (accepted) [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_20-00177/_article/)
 
 ### Domestic conferences
 - **牧野 晃平**，三輪 誠，佐々木 裕，辺編集による文書レベルの関係グラフ構築，言語処理学会第27回年次大会（NLP2021），2021．
