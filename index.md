@@ -11,6 +11,7 @@ Please feel free to contact me.
 - [GitHub](https://github.com/bowdbeg)
 - [LinkedIn](https://www.linkedin.com/in/kohei-makino/)
 - [Google Scholar](https://scholar.google.com/citations?user=SVObobAAAAAJ)
+- [twitter](https://twitter.com/KoheiMAKINO2)
 
 ## About Me
 
