@@ -62,3 +62,5 @@ Please feel free to contact me.
 - 新谷浩平，佐々木裕，三輪誠，**牧野晃平**，車体性能予測方法，特開2021-022310，2021年2月18日 [[\URL\]](https://www.j-platpat.inpit.go.jp/p0200)
 <!-- ### Works and Activities -->
 
+## Awards
+- スポンサー賞 Sansan DSOC賞 @ 言語処理学会第27回年次大会（NLP2021）
