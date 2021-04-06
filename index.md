@@ -65,8 +65,8 @@ Please feel free to contact me.
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa, Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature, In Proceedings of The 12th Language Resources and Evaluation Conference, 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### Journal papers
-- **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕，再帰ニューラルネットを用いた車両運動性の代理モデリング，日本機械学会論文集, 2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_20-00177/_article/-char/ja)
-  - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI, Surrogate modeling of vehicle dynamics using Recurrent Neural Networks, Transactions of the Japan Society of Mechanical Engineers, 2020. (in Japanese) (accepted) [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_20-00177/_article/)
+- **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕，再帰ニューラルネットを用いた車両運動性の代理モデリング，日本機械学会論文集, 2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/-char/ja)
+  - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI, Surrogate modeling of vehicle dynamics using Recurrent Neural Networks, Transactions of the Japan Society of Mechanical Engineers, 2020. (in Japanese) [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/)
 
 ### Domestic conferences
 - **牧野 晃平**，三輪 誠，佐々木 裕，辺編集による文書レベルの関係グラフ構築，言語処理学会第27回年次大会（NLP2021），2021．
@@ -76,7 +76,7 @@ Please feel free to contact me.
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕，深層学習を用いた車両運動性能の代理モデルの開発，第29回設計工学・システム部門講演会，9月26日, 2019. [\[paper\]](https://www.jstage.jst.go.jp/article/jsmedsd/2019.29/0/2019.29_2209/_article/-char/ja/)
 
 ## Patent
-- 新谷浩平，佐々木裕，三輪誠，**牧野晃平**，車体性能予測方法，特開2021-022310，2021年2月18日 [[\URL\]](https://www.j-platpat.inpit.go.jp/p0200)
+- 新谷浩平，佐々木裕，三輪誠，**牧野晃平**，車体性能予測方法，特開2021-022310，2021年2月18日 [\[URL\]](https://www.j-platpat.inpit.go.jp/p0200)
 
 ## Awards
-- スポンサー賞 Sansan DSOC賞 @ 言語処理学会第27回年次大会（NLP2021）
+- スポンサー賞 Sansan DSOC賞 @ 言語処理学会第27回年次大会（NLP2021）[\[URL\]](https://www.anlp.jp/nlp2021/award.html)
