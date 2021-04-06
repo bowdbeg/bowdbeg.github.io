@@ -21,25 +21,42 @@ Please feel free to contact me.
 - Address: Nagoya, Aich, Japan \(愛知県名古屋市\)
 - Birthplace: Hokkaido, Japan \(北海道\)
 
-### Affiliation
+### Experience
 
-- Ph.D. student majoring in computer science at [Toyota Technological Institute in Japan (TTI-J)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\) \(2021/4-\)
+- Research Assistant
+  - [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\) \(2019/9-2021/3\)
+- Internship
+  - [KYOHO MACHINE WORKS, LTD.](http://www.kyoho-ss.co.jp/) \(株式会社協豊製作所\) \(2018/2-2018/3\)
+- Internship
+  - [MIKASA SANGYO CO,.LTD](https://www.mikasas.com/) \(三笠産業株式会社\) \(2016/2-2016/3\)
+
+### Education
+- Ph.D. student at [Toyota Technological Institute in Japan (TTI)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\) \(2021/4-Now\)
+  - 豊田工業大学大学院 博士後期課程 工学研究科 情報援用工学専攻
   - Lab : [Computational Intelligence Laboratory](https://tticoin.wordpress.com/) \(知能数理研究室\)
-- Research Assistant at [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\) \(2019/9-2020/3\)
-<!-- - [National Institute of Advanced Industrial Science and Technology](https://www.aist.go.jp/) -->
+- Master of engineering at TTI \(工学修士\) (2019/4-2021/3)
+  - 豊田工業大学大学院 博士前期課程 工学研究科 先端工学専攻
+- Bachelor of engineering at TTI \(工学学士\) (2015/4-2019/3)
+  - 豊田工業大学 工学部 先端工学基礎学科
+- High school \(2012/4-2015/3\)
+  - 北海道帯広柏葉高等学校 普通科
 
-### My Interests
+### Research Topics
 
 - Computer Science \(CS\)
 - Natural Language Processing \(NLP\)
-- Relation Extraction \(RE\)
-- Information Extraction \(IE\)
+  - Relation Extraction \(RE\)
+  - Information Extraction \(IE\)
 
 ### Hobbies
 
 - Motorcycle
   - V-strom 250 \(Suzuki\) ![v-strom250](images/bike.jpg)
+  - If you are interested in touring on a motorcycle with me, please contact me.
 - Liquor
+  - Whisky
+  - Wine
+  - Shochu
 - Bass guitar
 
 ## Publication List
@@ -58,9 +75,8 @@ Please feel free to contact me.
 - **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠，無機材料文献からの合成プロセス抽出のための関係抽出，言語処理学会第26回年次大会，2020. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/G4-2.pdf)
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕，深層学習を用いた車両運動性能の代理モデルの開発，第29回設計工学・システム部門講演会，9月26日, 2019. [\[paper\]](https://www.jstage.jst.go.jp/article/jsmedsd/2019.29/0/2019.29_2209/_article/-char/ja/)
 
-### Patent
+## Patent
 - 新谷浩平，佐々木裕，三輪誠，**牧野晃平**，車体性能予測方法，特開2021-022310，2021年2月18日 [[\URL\]](https://www.j-platpat.inpit.go.jp/p0200)
-<!-- ### Works and Activities -->
 
 ## Awards
 - スポンサー賞 Sansan DSOC賞 @ 言語処理学会第27回年次大会（NLP2021）
