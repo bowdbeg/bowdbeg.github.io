@@ -23,6 +23,8 @@ Please feel free to contact me.
 
 ### Experience
 
+- Engineer
+  - [一般社団法人ZIAI](https://ziai.jp/) \(2021/4-Present\)
 - Research Assistant
   - [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\) \(2019/9-2021/3\)
 - Internship
@@ -31,7 +33,7 @@ Please feel free to contact me.
   - [MIKASA SANGYO CO,.LTD](https://www.mikasas.com/) \(三笠産業株式会社\) \(2016/2-2016/3\)
 
 ### Education
-- Ph.D. student at [Toyota Technological Institute in Japan (TTI)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\) \(2021/4-Now\)
+- Ph.D. student at [Toyota Technological Institute in Japan (TTI)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\) \(2021/4-Present\)
   - 豊田工業大学大学院 博士後期課程 工学研究科 情報援用工学専攻
   - Lab : [Computational Intelligence Laboratory](https://tticoin.wordpress.com/) \(知能数理研究室\)
 - Master of engineering at TTI \(工学修士\) (2019/4-2021/3)
