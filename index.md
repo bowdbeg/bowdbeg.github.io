@@ -64,7 +64,9 @@ Please feel free to contact me.
 ## Publication List
 
 ### International conferences
-- Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa, Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature, In Proceedings of The 12th Language Resources and Evaluation Conference, 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
+- **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction. In Proceedings of the Findings of the Association for Computational Linguistics: ACL2021. 2021. (accepted)
+  - The paper and source codes are available soon.
+- Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### Journal papers
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕，再帰ニューラルネットを用いた車両運動性の代理モデリング，日本機械学会論文集, 2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/-char/ja)
