@@ -80,7 +80,7 @@ Please feel free to contact me.
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕，深層学習を用いた車両運動性能の代理モデルの開発，第29回設計工学・システム部門講演会，9月26日, 2019. [\[paper\]](https://www.jstage.jst.go.jp/article/jsmedsd/2019.29/0/2019.29_2209/_article/-char/ja/)
 
 ## Patent
-- 新谷浩平，佐々木裕，三輪誠，**牧野晃平**，車体性能予測方法，特開2021-022310，2021年2月18日 [\[URL\]](https://www.j-platpat.inpit.go.jp/p0200)
+- 新谷浩平，佐々木裕，三輪誠，**牧野晃平**，車体性能予測方法，特開2021-022310，2021年2月18日 [\[URL\]](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-022310/07D921FDC07CC9425F69C65F313B150DAC32E78436EEAF604240E7923777C606/11/ja)
 
 ## Awards
 - スポンサー賞 Sansan DSOC賞 @ 言語処理学会第27回年次大会（NLP2021）[\[URL\]](https://www.anlp.jp/nlp2021/award.html)
