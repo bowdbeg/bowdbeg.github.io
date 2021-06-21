@@ -64,8 +64,7 @@ Please feel free to contact me.
 ## Publication List
 
 ### International conferences
-- **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction. In Proceedings of the Findings of the Association for Computational Linguistics: ACL2021. 2021. (accepted)
-  - The paper and source codes are available soon.
+- **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction. In Proceedings of the Findings of the Association for Computational Linguistics: ACL2021. 2021. (accepted) [\[arXiv\]](https://arxiv.org/abs/2106.09900) [\[code\]](https://github.com/tti-coin/edge-editing)
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### Journal papers
