@@ -53,7 +53,9 @@ Please feel free to contact me.
 ### Hobbies
 
 - Motorcycle
-  - V-strom 250 \(Suzuki\) ![v-strom250](images/bike.jpg)
+  - V-strom 250 \(Suzuki\) 
+  - I like to go camping with my motorcycle.
+    ![v-strom250](images/bike.jpg)![camp](images/camp.jpg)
   - If you are interested in touring on a motorcycle with me, please contact me.
 - Liquor
   - Whisky
