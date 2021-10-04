@@ -74,11 +74,12 @@ Please feel free to contact me.
   - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI, Surrogate modeling of vehicle dynamics using Recurrent Neural Networks, Transactions of the Japan Society of Mechanical Engineers, 2020. (in Japanese) [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/)
 
 ### Domestic conferences
-- **牧野 晃平**，三輪 誠，佐々木 裕，辺編集による文書レベルの関係グラフ構築，言語処理学会第27回年次大会（NLP2021），2021．[\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/C8-3.pdf)
-- **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠，無機材料科学論文からの合成プロセスパラグラフ抽出，第34回人工知能学会全国大会，2020 [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_4Rin112/_article/-char/ja/)
-- 國吉 房貴，**牧野 晃平**，小澤 順，三輪 誠，論文中に記載される合成プロセスの抽出手法の提案と全固体電池分野での評価，第34回人工知能学会全国大会，2020 [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Rin460/_article/-char/ja/)
-- **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠，無機材料文献からの合成プロセス抽出のための関係抽出，言語処理学会第26回年次大会，2020. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/G4-2.pdf)
-- **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕，深層学習を用いた車両運動性能の代理モデルの開発，第29回設計工学・システム部門講演会，9月26日, 2019. [\[paper\]](https://www.jstage.jst.go.jp/article/jsmedsd/2019.29/0/2019.29_2209/_article/-char/ja/)
+- **牧野 晃平**，三輪 誠，佐々木 裕．文書単位関係グラフ抽出のための反復的な辺編集と編集履歴の利用．NLP若手の会 (YANS) 第16回シンポジウム．2021．
+- **牧野 晃平**，三輪 誠，佐々木 裕．辺編集による文書レベルの関係グラフ構築．言語処理学会第27回年次大会（NLP2021）．2021．[\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/C8-3.pdf)
+- **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠．無機材料科学論文からの合成プロセスパラグラフ抽出．第34回人工知能学会全国大会．2020 [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_4Rin112/_article/-char/ja/)
+- 國吉 房貴，**牧野 晃平**，小澤 順，三輪 誠．論文中に記載される合成プロセスの抽出手法の提案と全固体電池分野での評価．第34回人工知能学会全国大会．2020 [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Rin460/_article/-char/ja/)
+- **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠．無機材料文献からの合成プロセス抽出のための関係抽出．言語処理学会第26回年次大会．2020. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/G4-2.pdf)
+- **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕．深層学習を用いた車両運動性能の代理モデルの開発．第29回設計工学・システム部門講演会．9月26日, 2019. [\[paper\]](https://www.jstage.jst.go.jp/article/jsmedsd/2019.29/0/2019.29_2209/_article/-char/ja/)
 
 ## Patent
 - 新谷浩平，佐々木裕，三輪誠，**牧野晃平**，車体性能予測方法，特開2021-022310，2021年2月18日 [\[URL\]](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-022310/07D921FDC07CC9425F69C65F313B150DAC32E78436EEAF604240E7923777C606/11/ja)
