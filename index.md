@@ -65,13 +65,13 @@ Please feel free to contact me.
 
 ## Publication List
 
-### International conferences
-- **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction. In Proceedings of the Findings of the Association for Computational Linguistics: ACL2021. 2021. [\[arXiv\]](https://arxiv.org/abs/2106.09900) [\[code\]](https://github.com/tti-coin/edge-editing) [\[paper\]](https://aclanthology.org/2021.findings-acl.234/)
-- Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
-
 ### Journal papers
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕．再帰ニューラルネットを用いた車両運動性の代理モデリング．日本機械学会論文集．2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/-char/ja)
   - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI. Surrogate modeling of vehicle dynamics using Recurrent Neural Networks. Transactions of the Japan Society of Mechanical Engineers. 2020. (in Japanese) [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/)
+
+### International conferences
+- **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction. In Proceedings of the Findings of the Association for Computational Linguistics: ACL2021. 2021. [\[arXiv\]](https://arxiv.org/abs/2106.09900) [\[code\]](https://github.com/tti-coin/edge-editing) [\[paper\]](https://aclanthology.org/2021.findings-acl.234/)
+- Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### Domestic conferences
 - **牧野 晃平**，三輪 誠，佐々木 裕．文書単位関係グラフ抽出のための反復的な辺編集と編集履歴の利用．NLP若手の会 (YANS) 第16回シンポジウム．2021．
