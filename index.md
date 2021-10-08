@@ -74,6 +74,7 @@ Please feel free to contact me.
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### Domestic conferences
+- **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠．無機材料科学分野における合成手順が記載された文献からの目的材料名称の抽出．第35回人工知能学会全国大会．2021．
 - **牧野 晃平**，三輪 誠，佐々木 裕．文書単位関係グラフ抽出のための反復的な辺編集と編集履歴の利用．NLP若手の会 (YANS) 第16回シンポジウム．2021．
 - **牧野 晃平**，三輪 誠，佐々木 裕．辺編集による文書レベルの関係グラフ構築．言語処理学会第27回年次大会（NLP2021）．2021．[\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/C8-3.pdf)
 - **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠．無機材料科学論文からの合成プロセスパラグラフ抽出．第34回人工知能学会全国大会．2020 [\[paper\]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_4Rin112/_article/-char/ja/)
