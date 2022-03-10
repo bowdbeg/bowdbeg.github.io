@@ -27,7 +27,7 @@ Please feel free to contact me.
 - Engineer
   - [一般社団法人ZIAI](https://ziai.jp/) \(2021/4-Present\)
 - Research Assistant
-  - [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) \(パナソニック-産総研先進型AI連携研究ラボ\) \(2019/9-2021/3\)
+  - [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) at [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/) \(国立研究開発法人産業技術総合研究所 パナソニック-産総研先進型AI連携研究ラボ\) \(2019/9-2021/3\)
 - Internship
   - [KYOHO MACHINE WORKS, LTD.](http://www.kyoho-ss.co.jp/) \(株式会社協豊製作所\) \(2018/2-2018/3\)
 - Internship
