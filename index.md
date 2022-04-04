@@ -67,8 +67,8 @@ Please feel free to contact me.
 ## Publication List
 
 ### Journal papers
+- **Kohei Makino**, Fusataka Kuniyoshi, Jun Ozawa, Makoto Miwa. Extracting and Analyzing Inorganic Material Synthesis Procedures in the Literature. In IEEE Access. vol. 10, pp. 31524-31537. 2022. [\[paper\]](https://doi.org/10.1109/ACCESS.2022.3160201)
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕．再帰ニューラルネットを用いた車両運動性の代理モデリング．日本機械学会論文集．2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/-char/ja)
-  - en : Kohei MAKINO, Makoto MIWA, Kohei SHINTANI, Atsuji ABE and Yutaka SASAKI. Surrogate modeling of vehicle dynamics using Recurrent Neural Networks. Transactions of the Japan Society of Mechanical Engineers. 2020. (in Japanese) [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/)
 
 ### International conferences
 - **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction. In Proceedings of the Findings of the Association for Computational Linguistics: ACL2021. 2021. [\[arXiv\]](https://arxiv.org/abs/2106.09900) [\[code\]](https://github.com/tti-coin/edge-editing) [\[paper\]](https://aclanthology.org/2021.findings-acl.234/)
