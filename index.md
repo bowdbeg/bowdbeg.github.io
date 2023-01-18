@@ -70,12 +70,16 @@ Please feel free to contact me.
 - **Kohei Makino**, Fusataka Kuniyoshi, Jun Ozawa, and Makoto Miwa. Extracting and Analyzing Inorganic Material Synthesis Procedures in the Literature. In IEEE Access. vol. 10, pp. 31524-31537. 2022. [\[paper\]](https://doi.org/10.1109/ACCESS.2022.3160201)
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充治，佐々木 裕．再帰ニューラルネットを用いた車両運動性の代理モデリング．日本機械学会論文集．86 巻，891 号，p. 20-00177．2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/-char/ja)
 
-### International conferences
+### International conferences (Peer-reviewed)
 - **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction. In Proceedings of the Findings of the Association for Computational Linguistics: ACL2021. 2021. [\[arXiv\]](https://arxiv.org/abs/2106.09900) [\[code\]](https://github.com/tti-coin/edge-editing) [\[paper\]](https://aclanthology.org/2021.findings-acl.234/)
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, and Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
-### Domestic conferences
-- **牧野 晃平**，二瀬 颯斗，石崎 優人，櫻井 昌佳．チャット形式心理カウンセリングにおける応答率向上のための補助システム開発に向けて．第36回人工知能学会全国大会．2022．
+### International conferences (Non Peer-reviewed)
+- Kasumi Ohno, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Synthetic Data Augmentation for Time Series Forecasting. In Proc. of Women in Machine Learning (WiML) Workshop 2022. Dec 2022. [\[URL\]](https://sites.google.com/view/wiml2022/program)
+- Koshi Yamada, Ryuki Ida, Tomoki Tsujimura, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Span-based and Question Answering-based Medication Event Extraction. In Proc. of 2022 n2c2 Shared Task and Workshop. Nov 2022. [\[URL\]](https://n2c2.dbmi.hms.harvard.edu/2022-amia-workshop)
+
+### Domestic conferences (Non Peer-reviewed)
+- **牧野 晃平**，二瀬 颯斗，石崎 優人，櫻井 昌佳．チャット形式心理カウンセリングにおける応答率向上のための補助システム開発に向けて．第36回人工知能学会全国大会．2022．[\[Paper\]](https://doi.org/10.11517/pjsai.JSAI2022.0_3Yin246)
 - **牧野 晃平**，三輪 誠，佐々木 裕．関係間の関係性を考慮した時間関係グラフ改善のためのグローバル反復辺編集器．言語処理学会第28回年次大会（NLP2022）．2022．[\[Paper\]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/C4-4.pdf)
 - 二瀬 颯斗，**牧野 晃平**，石崎 優人，櫻井 昌佳．自殺念慮防止のための心理カウンセリング補助システム開発に向けた対話データの作成と前処理．言語処理学会第28回年次大会（NLP2022）．2022．[\[Paper\]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT2-15.pdf)
 - **牧野 晃平**，國吉 房貴，小澤 順，三輪 誠．無機材料科学分野における合成手順が記載された文献からの目的材料名称の抽出．第35回人工知能学会全国大会．2021．[\[Paper\]](https://doi.org/10.11517/pjsai.JSAI2021.0_2Xin516)
@@ -87,7 +91,7 @@ Please feel free to contact me.
 - **牧野 晃平**，三輪 誠，新谷 浩平，阿部 充浩，佐々木裕．深層学習を用いた車両運動性能の代理モデルの開発．第29回設計工学・システム部門講演会．9月26日, 2019． [\[Paper\]](https://doi.org/10.1299/jsmedsd.2019.29.2209)
 
 ## Patent
-- 新谷浩平，佐々木裕，三輪誠，**牧野晃平**．車体性能予測方法．特開2021-022310．2021年2月18日 [\[URL\]](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-022310/07D921FDC07CC9425F69C65F313B150DAC32E78436EEAF604240E7923777C606/11/ja)
+- 新谷浩平，佐々木裕，三輪誠，**牧野晃平**．車体性能予測方法．特許7152367．2022年． [\[URL\]](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-022310/07D921FDC07CC9425F69C65F313B150DAC32E78436EEAF604240E7923777C606/11/ja)
 
 ## Awards
 - スポンサー賞 Sansan DSOC賞 @ 言語処理学会第27回年次大会（NLP2021）[\[URL\]](https://www.anlp.jp/nlp2021/award.html)
