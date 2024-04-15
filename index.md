@@ -81,7 +81,10 @@ Please feel free to contact me.
 - Koshi Yamada, Ryuki Ida, Tomoki Tsujimura, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Span-based and Question Answering-based Medication Event Extraction. In Proc. of 2022 n2c2 Shared Task and Workshop. Nov 2022. [\[URL\]](https://n2c2.dbmi.hms.harvard.edu/2022-amia-workshop)
 
 ### Domestic conferences and Workshops (Non Peer-reviewed)
+- 大野 花純, **牧野 晃平**, 三輪 誠, 佐々木 裕. 高品質な時系列生成による長期時系列予測のためのデータ拡張. 第38回人工知能学会全国大会. 2024. (TBA)
 - **牧野 晃平**, 三輪 誠, 佐々木 裕. 訓練可能なk近傍Retrieverで関係抽出事例を導入したニューラルプロンプティング. 言語処理学会第30回年次大会（NLP2024）. 2024. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-10.pdf)
+- 鬼頭 泰清, **牧野 晃平**, 三輪 誠, 佐々木 裕. 固有表現抽出における大規模言語モデルのLoRAファインチューニングの学習設定の調査. 言語処理学会第30回年次大会（NLP2024）. 2024. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A3-5.pdf)
+- 吉村 貴紀, **牧野 晃平**, 三輪 誠, 佐々木 裕. 表層が同じ文字列の同一性を表現した深層固有表現抽出. 言語処理学会第30回年次大会（NLP2024）. 2024. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-24.pdf)
 - **牧野 晃平**, 三輪 誠, 佐々木 裕. コーパス内の関係間の相互作用を考慮した関係抽出. NLP若手の会 (YANS) 第18回シンポジウム. 2023. [\[URL\]](https://yans.anlp.jp/entry/yans2023program)
 - **牧野 晃平**. 画像中バウンディングボックス内における拡散過程のためのゲート付きノイズ除去拡散確率モデル. 第37回人工知能学会全国大会. 2023. [\[paper\]](https://doi.org/10.11517/pjsai.JSAI2023.0_3Xin434)
 - 柳井 佑太, 牧野 晃平, 川西 通裕. 特徴量空間上のベクトルに対するノイズ除去拡散確率モデルによる画像分類. 第37回人工知能学会全国大会. 2023. [\[paper\]](https://doi.org/10.11517/pjsai.JSAI2023.0_4Xin132)
