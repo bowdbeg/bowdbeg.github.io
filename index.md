@@ -76,10 +76,13 @@ Please feel free to contact me.
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, and Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### International conferences and Workshops (Non Peer-reviewed)
+- **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. Referring to Training Examples from Each Transformer Layer for Relation Extraction. Seventh International Workshop on Symbolic-Neural Learning (SNL2023). 2023. [\[URL\]](https://liat-aip.sakura.ne.jp/snl2023/program.html)
 - Kasumi Ohno, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Synthetic Data Augmentation for Time Series Forecasting. In Proc. of Women in Machine Learning (WiML) Workshop 2022. Dec 2022. [\[URL\]](https://sites.google.com/view/wiml2022/program)
 - Koshi Yamada, Ryuki Ida, Tomoki Tsujimura, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Span-based and Question Answering-based Medication Event Extraction. In Proc. of 2022 n2c2 Shared Task and Workshop. Nov 2022. [\[URL\]](https://n2c2.dbmi.hms.harvard.edu/2022-amia-workshop)
 
 ### Domestic conferences and Workshops (Non Peer-reviewed)
+- **牧野 晃平**, 三輪 誠, 佐々木 裕. 訓練可能なk近傍Retrieverで関係抽出事例を導入したニューラルプロンプティング. 言語処理学会第30回年次大会（NLP2024）. 2024. [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P10-10.pdf)
+- **牧野 晃平**, 三輪 誠, 佐々木 裕. コーパス内の関係間の相互作用を考慮した関係抽出. NLP若手の会 (YANS) 第18回シンポジウム. 2023. [\[URL\]](https://yans.anlp.jp/entry/yans2023program)
 - **牧野 晃平**. 画像中バウンディングボックス内における拡散過程のためのゲート付きノイズ除去拡散確率モデル. 第37回人工知能学会全国大会. 2023. [\[paper\]](https://doi.org/10.11517/pjsai.JSAI2023.0_3Xin434)
 - 柳井 佑太, 牧野 晃平, 川西 通裕. 特徴量空間上のベクトルに対するノイズ除去拡散確率モデルによる画像分類. 第37回人工知能学会全国大会. 2023. [\[paper\]](https://doi.org/10.11517/pjsai.JSAI2023.0_4Xin132)
 - 大野 花純, **牧野 晃平**, 三輪 誠, 佐々木 裕. 時系列予測における人工データを用いたデータ拡張. 第37回人工知能学会全国大会. 2023. [\[paper\]](https://doi.org/10.11517/pjsai.JSAI2023.0_4E2GS204)
@@ -98,4 +101,5 @@ Please feel free to contact me.
 - 新谷浩平, 佐々木裕, 三輪誠, **牧野晃平**. 車体性能予測方法. 特許7152367. 2022年.  [\[URL\]](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-022310/07D921FDC07CC9425F69C65F313B150DAC32E78436EEAF604240E7923777C606/11/ja)
 
 ## Awards
+- 若手奨励賞 @ 言語処理学会第30回年次大会（NLP2024）[\[URL\]](https://www.anlp.jp/nlp2024/award.html)
 - スポンサー賞 Sansan DSOC賞 @ 言語処理学会第27回年次大会（NLP2021）[\[URL\]](https://www.anlp.jp/nlp2021/award.html)
