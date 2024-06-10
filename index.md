@@ -76,7 +76,7 @@ Please feel free to contact me.
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, and Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### International conferences and Workshops (Non Peer-reviewed)
-- **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. Referring to Training Examples from Each Transformer Layer for Relation Extraction. Seventh International Workshop on Symbolic-Neural Learning (SNL2023). 2023. [\[URL\]](https://liat-aip.sakura.ne.jp/snl2023/program.html)
+- **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Referring to Training Examples from Each Transformer Layer for Relation Extraction. Seventh International Workshop on Symbolic-Neural Learning (SNL2023). 2023. [\[URL\]](https://liat-aip.sakura.ne.jp/snl2023/program.html)
 - Kasumi Ohno, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Synthetic Data Augmentation for Time Series Forecasting. In Proc. of Women in Machine Learning (WiML) Workshop 2022. Dec 2022. [\[URL\]](https://sites.google.com/view/wiml2022/program)
 - Koshi Yamada, Ryuki Ida, Tomoki Tsujimura, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Span-based and Question Answering-based Medication Event Extraction. In Proc. of 2022 n2c2 Shared Task and Workshop. Nov 2022. [\[URL\]](https://n2c2.dbmi.hms.harvard.edu/2022-amia-workshop)
 
@@ -100,8 +100,9 @@ Please feel free to contact me.
 - **牧野 晃平**, 國吉 房貴, 小澤 順, 三輪 誠. 無機材料文献からの合成プロセス抽出のための関係抽出. 言語処理学会第26回年次大会. 2020.  [\[Paper\]](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/G4-2.pdf)
 - **牧野 晃平**, 三輪 誠, 新谷 浩平, 阿部 充浩, 佐々木裕. 深層学習を用いた車両運動性能の代理モデルの開発. 第29回設計工学・システム部門講演会. 9月26日, 2019.  [\[Paper\]](https://doi.org/10.1299/jsmedsd.2019.29.2209)
 
-## Patent
+## Patents
 - 新谷浩平, 佐々木裕, 三輪誠, **牧野晃平**. 車体性能予測方法. 特許7152367. 2022年.  [\[URL\]](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-022310/07D921FDC07CC9425F69C65F313B150DAC32E78436EEAF604240E7923777C606/11/ja)
+- Kohei Shintani, Yutaka Sasaki, Makoto Miwa, and **Kohei Makino**. U.S. Patent Application No. 17/403,499. 2022. [\[URL\]](https://patents.google.com/patent/US20220050944A1/en)
 
 ## Awards
 - 若手奨励賞 @ 言語処理学会第30回年次大会（NLP2024）[\[URL\]](https://www.anlp.jp/nlp2024/award.html)
