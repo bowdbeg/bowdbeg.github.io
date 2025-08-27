@@ -23,7 +23,7 @@ Please feel free to contact me.
 
 ### Experience
 - JSPS DC2 Research Fellow
-  - 日本学術振興会特別研究員 DC2 \(2022/4-Present\)
+  - 日本学術振興会特別研究員 DC2 \(2022/4-2024/3\)
 - Engineer
   - [一般社団法人ZIAI](https://ziai.jp/) \(2021/4-2023/6\)
 - Research Assistant
