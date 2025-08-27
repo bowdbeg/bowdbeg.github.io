@@ -67,6 +67,7 @@ Please feel free to contact me.
 ## Publication List
 
 ### Journal papers
+- Kasumi Ohno, **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. Long-Term, Multivariate Time Series Generation With the Capture of Intervariate Correlations and Variatewise Characteristics. In IEEE Access. vol. 13, pp. 130747-130757. 2025.[\[paper\]](https://doi.org/10.1109/ACCESS.2025.3590728)
 - **牧野 晃平**, 三輪 誠, 佐々木 裕. 文書単位関係抽出における抽出済みの関係候補を辺とした関係グラフの辺編集. 自然言語処理 30 巻, 2号, pp. 557-585. 2023. [\[paper\]](https://doi.org/10.5715/jnlp.30.557)
 - **Kohei Makino**, Fusataka Kuniyoshi, Jun Ozawa, and Makoto Miwa. Extracting and Analyzing Inorganic Material Synthesis Procedures in the Literature. In IEEE Access. vol. 10, pp. 31524-31537. 2022. [\[paper\]](https://doi.org/10.1109/ACCESS.2022.3160201)
 - **牧野 晃平**, 三輪 誠, 新谷 浩平, 阿部 充治, 佐々木 裕. 再帰ニューラルネットを用いた車両運動性の代理モデリング. 日本機械学会論文集. 86 巻, 891 号, p. 20-00177. 2020. [\[paper\]](https://www.jstage.jst.go.jp/article/transjsme/86/891/86_20-00177/_article/-char/ja)
@@ -76,7 +77,9 @@ Please feel free to contact me.
 - Fusataka Kuniyoshi, **Kohei Makino**, Jun Ozawa, and Makoto Miwa. Annotating and Extracting Synthesis Process of All-Solid-State Batteries from Scientific Literature. In Proceedings of The 12th Language Resources and Evaluation Conference. 2020. [\[paper\]](https://www.aclweb.org/anthology/2020.lrec-1.239/)
 
 ### International conferences and Workshops (Non Peer-reviewed)
-- **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Referring to Training Examples from Each Transformer Layer for Relation Extraction. Seventh International Workshop on Symbolic-Neural Learning (SNL2023). 2023. [\[URL\]](https://liat-aip.sakura.ne.jp/snl2023/program.html)
+- Koki Ueno, **Kohei Makino**, Yutaka Sasaki. Empirically Estimated Uncertainty-Guided Iterative Decoding Strategy of Diffusion Models for Time Series Forecasting. In Proc. of AI4TS: AI for Time Series Analysis. 2025.
+- Kasumi Ohno, **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. Long-Term Multivariate Time Series Generation with the Capture of Intervariate Dependencies and Variatewise Characteristics. In Proc. of AI4TS: AI for Time Series Analysis. 2025.
+- **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Referring to Training Examples from Each Transformer Layer for Relation Extraction. In Proc. of Seventh International Workshop on Symbolic-Neural Learning (SNL2023). 2023. [\[URL\]](https://liat-aip.sakura.ne.jp/snl2023/program.html)
 - Kasumi Ohno, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Synthetic Data Augmentation for Time Series Forecasting. In Proc. of Women in Machine Learning (WiML) Workshop 2022. Dec 2022. [\[URL\]](https://sites.google.com/view/wiml2022/program)
 - Koshi Yamada, Ryuki Ida, Tomoki Tsujimura, **Kohei Makino**, Makoto Miwa, and Yutaka Sasaki. Span-based and Question Answering-based Medication Event Extraction. In Proc. of 2022 n2c2 Shared Task and Workshop. Nov 2022. [\[URL\]](https://n2c2.dbmi.hms.harvard.edu/2022-amia-workshop)
 
