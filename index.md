@@ -51,19 +51,6 @@ Please feel free to contact me.
   - Relation Extraction \(RE\)
   - Information Extraction \(IE\)
 
-### Hobbies
-
-- Motorcycle
-  - V-strom 250 \(Suzuki\) 
-  - I like to go camping with my motorcycle.
-    ![v-strom250](images/bike.jpg)![camp](images/camp.jpg)
-  - If you are interested in touring on a motorcycle with me, please contact me.
-- Liquor
-  - Whisky
-  - Wine
-  - Shochu
-- Bass guitar
-
 ## Publication List
 
 ### Journal papers
