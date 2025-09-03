@@ -1,8 +1,8 @@
 ---
 title: Kohei MAKINO
 ---
-# Welcome to page of my work!!
-Thank you for visiting and interest in my work. I introduce myself, work, projects or something I can contribute.
+# Welcome to the page of my work!!
+Thank you for visiting and for your interest in my work. I introduce myself, work, projects, or something I can contribute.
 Please feel free to contact me.
 
 ## Contact
@@ -12,6 +12,8 @@ Please feel free to contact me.
 - [LinkedIn](https://www.linkedin.com/in/kohei-makino/)
 - [Google Scholar](https://scholar.google.com/citations?user=SVObobAAAAAJ)
 - [twitter](https://twitter.com/KoheiMAKINO2)
+- [職務経歴書 (CV)](https://github.com/bowdbeg/bowdbeg.github.io/blob/master/resources/CV.pdf)
+- [発表論文一覧 (Publications)](https://github.com/bowdbeg/bowdbeg.github.io/blob/master/resources/publications.pdf)
 
 ## About Me
 
