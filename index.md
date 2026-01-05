@@ -1,59 +1,92 @@
 ---
 title: Kohei MAKINO
 ---
-# Welcome to the page of my work!!
-Thank you for visiting and for your interest in my work. I introduce myself, work, projects, or something I can contribute.
-Please feel free to contact me.
+
+# Welcome
+
+Thank you for visiting my portfolio.  
+This page introduces my background, research activities, and publications.  
+Please feel free to contact me if you have any questions or opportunities for collaboration.
+
+---
 
 ## Contact
 
-- e-mail: sd21505\[at\]toyota-ti.ac.jp
-- [GitHub](https://github.com/bowdbeg)
-- [LinkedIn](https://www.linkedin.com/in/kohei-makino/)
-- [Google Scholar](https://scholar.google.com/citations?user=SVObobAAAAAJ)
-- [twitter](https://twitter.com/KoheiMAKINO2)
-- [職務経歴書 (CV)](https://github.com/bowdbeg/bowdbeg.github.io/blob/master/resources/CV.pdf)
-- [発表論文一覧 (Publications)](https://github.com/bowdbeg/bowdbeg.github.io/blob/master/resources/publications.pdf)
+- **E-mail**: kohei.makino [at] emuniinc.jp
+- **GitHub**: https://github.com/bowdbeg  
+- **LinkedIn**: https://www.linkedin.com/in/kohei-makino/  
+- **Google Scholar**: https://scholar.google.com/citations?user=SVObobAAAAAJ  
+- **Twitter**: https://twitter.com/KoheiMAKINO2  
+- **CV**: https://github.com/bowdbeg/bowdbeg.github.io/blob/master/resources/CV.pdf  
+- **Publications (PDF)**: https://github.com/bowdbeg/bowdbeg.github.io/blob/master/resources/publications.pdf  
+
+---
 
 ## About Me
 
-- Name: Kohei MAKINO \(牧野 晃平\)
-- Gender: Male \(男\)
-- Birth: Nov. 1996
-- Address: Nagoya, Aich, Japan \(愛知県名古屋市\)
-- Birthplace: Hokkaido, Japan \(北海道\)
+- **Name**: Kohei MAKINO (牧野 晃平)  
+- **Date of Birth**: November 1996  
+- **Location**: Nagoya, Aichi, Japan  
+- **Nationality**: Japan  
 
-### Experience
-- JSPS DC2 Research Fellow
-  - 日本学術振興会特別研究員 DC2 \(2022/4-2024/3\)
-- Engineer
-  - [一般社団法人ZIAI](https://ziai.jp/) \(2021/4-2023/6\)
-- Research Assistant
-  - [Panasonic-AIST Advanced AI Research Laboratory](https://unit.aist.go.jp/pana-aaicrl/) at [National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/) \(国立研究開発法人産業技術総合研究所 パナソニック-産総研先進型AI連携研究ラボ\) \(2019/9-2021/3\)
-- Internship
-  - [KYOHO MACHINE WORKS, LTD.](http://www.kyoho-ss.co.jp/) \(株式会社協豊製作所\) \(2018/2-2018/3\)
-- Internship
-  - [MIKASA SANGYO CO,.LTD](https://www.mikasas.com/) \(三笠産業株式会社\) \(2016/2-2016/3\)
+---
 
-### Education
-- Ph.D. student at [Toyota Technological Institute in Japan (TTI)](https://www.toyota-ti.ac.jp/) \(豊田工業大学\) \(2021/4-Present\)
-  - 豊田工業大学大学院 博士後期課程 工学研究科 情報援用工学専攻
-  - Lab : [Computational Intelligence Laboratory](https://tticoin.wordpress.com/) \(知能数理研究室\)
-- Master of engineering at TTI \(工学修士\) (2019/4-2021/3)
-  - 豊田工業大学大学院 博士前期課程 工学研究科 先端工学専攻
-- Bachelor of engineering at TTI \(工学学士\) (2015/4-2019/3)
-  - 豊田工業大学 工学部 先端工学基礎学科
-- High school \(2012/4-2015/3\)
-  - 北海道帯広柏葉高等学校 普通科
+## Experience
 
-### Research Topics
+- **Research Engineer / Project Manager**  
+  - 株式会社エムニ  
+  - Oct. 2025 – Present  
 
-- Computer Science \(CS\)
-- Natural Language Processing \(NLP\)
-  - Relation Extraction \(RE\)
-  - Information Extraction \(IE\)
+- **JSPS Research Fellow (DC2)**  
+  - Japan Society for the Promotion of Science  
+  - Apr. 2022 – Mar. 2024  
 
-## Publication List
+- **Engineer**  
+  - 一般社団法人 ZIAI  
+  - Apr. 2021 – Jun. 2023  
+
+- **Research Assistant**  
+  - Panasonic–AIST Advanced AI Research Laboratory,  
+    National Institute of Advanced Industrial Science and Technology (AIST)  
+  - Sep. 2019 – Mar. 2021  
+
+- **Internship**  
+  - KYOHO MACHINE WORKS, LTD. (Feb. 2018 – Mar. 2018)  
+  - MIKASA SANGYO CO., LTD. (Feb. 2016 – Mar. 2016)
+
+
+---
+
+## Education
+
+- **Ph.D. Program (Completed, without degree)**  
+  - Toyota Technological Institute (TTI)  
+  - Graduate School of Engineering, Information and Computer Science  
+  - Apr. 2021 – Sep. 2025  
+  - Laboratory: Computational Intelligence Laboratory  
+
+- **M.Eng.**  
+  - Toyota Technological Institute  
+  - Apr. 2019 – Mar. 2021  
+
+- **B.Eng.**  
+  - Toyota Technological Institute  
+  - Apr. 2015 – Mar. 2019  
+
+- **High School**  
+  - Obihiro Hakuyou High School, Hokkaido  
+  - Apr. 2012 – Mar. 2015
+
+---
+
+## Research Interests
+
+- Computer Science  
+- Natural Language Processing  
+  - Relation Extraction  
+  - Information Extraction  
+
+## Publications
 
 ### Journal papers
 - Kasumi Ohno, **Kohei Makino**, Makoto Miwa, Yutaka Sasaki. Long-Term, Multivariate Time Series Generation With the Capture of Intervariate Correlations and Variatewise Characteristics. In IEEE Access. vol. 13, pp. 130747-130757. 2025.[\[Paper\]](https://doi.org/10.1109/ACCESS.2025.3590728)
